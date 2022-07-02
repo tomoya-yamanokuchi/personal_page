@@ -2638,6 +2638,7 @@ input, select, textarea {
 
 	header.major {
 		margin-bottom: 3em;
+		text-align: center;
 	}
 
 		header.major h2 {
@@ -3550,6 +3551,8 @@ input, select, textarea {
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		#main table tbody tr {
@@ -3782,4 +3785,17 @@ input, select, textarea {
 				max-width: 100%;
 			}
 
+		}
+
+
+/* my setting */
+
+		header.reserch_subclass {
+			text-align: left;
+			font-size: 16px;
+		}
+
+		ul li {
+			/* padding-top:~;  */
+			padding-bottom: 15pt;
 		}
