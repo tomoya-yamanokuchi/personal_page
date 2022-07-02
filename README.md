@@ -1,3 +1,3 @@
 # personal_page
 
-https://github.com/tomoya-yamanokuchi/personal_page
+https://tomoya-yamanokuchi.github.io/personal_page/
